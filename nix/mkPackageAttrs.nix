@@ -17,6 +17,9 @@ let
   newAttrs = {
     src = ./..;
     inherit postPatch;
+    makeWrapperArgs = [
+      "--argv0 $out/bin/.tgpy-wrapped"
+    ];
     pythonRelaxDeps = [
       "cryptg"
     ];
