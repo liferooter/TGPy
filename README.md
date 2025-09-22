@@ -1,6 +1,10 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tm-a-t/TGPy/refs/heads/master/guide/docs/assets/icon.png" alt="" width=200>
+
 # TGPy
 
-**Runs Python code snippets within your Telegram messages**
+Runs Python code snippets in your Telegram messages
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/tgpy?style=flat-square)](https://pypi.org/project/tgpy/)
 [![PyPI](https://img.shields.io/pypi/v/tgpy?style=flat-square&color=9B59B6)](https://pypi.org/project/tgpy/)
@@ -8,20 +12,15 @@
 [![Open issues](https://img.shields.io/github/issues-raw/tm-a-t/TGPy?style=flat-square)](https://github.com/tm-a-t/TGPy/issues)
 [![Docs](https://img.shields.io/website?style=flat-square&label=docs&url=https%3A%2F%2Ftgpy.dev)](https://tgpy.dev/)
 
-<br>
+### [> Guide](https://tgpy.dev/basics/code) &nbsp; [> Recipes](https://tgpy.dev/recipes/about) &nbsp; [> Chat](https://t.me/tgpy_flood)
 
-Guide: https://tgpy.dev/guide
-
-Recipes: https://tgpy.dev/recipes
-
-Discussion: https://t.me/tgpy_flood
+</div>
 
 <br>
 
 https://user-images.githubusercontent.com/38432588/181266550-c4640ff1-71f2-4868-ab83-6ea3690c01b6.mp4
 
 <br>
-
 
 <!-- --8<-- [start:body] -->
 <!-- Starting from here, the content is shared between the readme file and the docs homepage -->
